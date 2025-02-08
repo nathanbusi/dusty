@@ -1,0 +1,12 @@
+# Ignore build, install, and log directories for both VM and Pi workspaces
+/dusty_ws_vm/build/
+/dusty_ws_vm/install/
+/dusty_ws_vm/log/
+
+/dusty_ws_pi5/build/
+/dusty_ws_pi5/install/
+/dusty_ws_pi5/log/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
