@@ -1,12 +1,54 @@
-# Ignore build, install, and log directories for both VM and Pi workspaces
+# ROS 2 and Colcon Build, Install, and Log directories
 /dusty_ws_vm/build/
 /dusty_ws_vm/install/
 /dusty_ws_vm/log/
+/dusty_ws_vm/compile_commands.json
 
 /dusty_ws_pi5/build/
 /dusty_ws_pi5/install/
 /dusty_ws_pi5/log/
+/dusty_ws_pi5/compile_commands.json
 
-# Ignore Python bytecode files
+# ROS 2 and Colcon cache files
+/dusty_ws_vm/.colcon/
+/dusty_ws_pi5/.colcon/
+
+# ROS 2 workspace-specific files
+/.ros/
+/.colcon/
+
+# Ignore Python bytecode and cache files
 *.pyc
 __pycache__/
+
+# Ignore C++ compiled object files and binaries
+*.o
+*.so
+*.out
+*.a
+*.bin
+*.elf
+
+# Ignore temporary and backup files
+*.swp
+*~
+*.tmp
+*.bak
+*.old
+
+# Ignore Visual Studio Code settings
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Linux file system clutter
+*.log
+Thumbs.db
+desktop.ini
+
+# Ignore temporary files created by editors or IDEs
+*.sublime-workspace
+*.sublime-project
+*.iml
