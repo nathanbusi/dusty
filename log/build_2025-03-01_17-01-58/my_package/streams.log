@@ -1,0 +1,52 @@
+[0.010s] Invoking command in '/home/bambinojr/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/bambinojr/dev_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bambinojr/dev_ws/install/my_package
+[0.206s] -- The C compiler identification is GNU 9.4.0
+[0.344s] -- The CXX compiler identification is GNU 9.4.0
+[0.352s] -- Check for working C compiler: /usr/bin/cc
+[0.414s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.416s] -- Detecting C compiler ABI info
+[0.477s] -- Detecting C compiler ABI info - done
+[0.485s] -- Detecting C compile features
+[0.485s] -- Detecting C compile features - done
+[0.488s] -- Check for working CXX compiler: /usr/bin/c++
+[0.556s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.556s] -- Detecting CXX compiler ABI info
+[0.624s] -- Detecting CXX compiler ABI info - done
+[0.633s] -- Detecting CXX compile features
+[0.633s] -- Detecting CXX compile features - done
+[0.639s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.662s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.662s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.836s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.871s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.937s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.940s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.941s] -- Added test 'lint_cmake' to check CMake code style
+[0.941s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.943s] -- Added test 'xmllint' to check XML markup files
+[0.945s] -- Configuring done
+[0.947s] -- Generating done
+[0.948s] -- Build files have been written to: /home/bambinojr/dev_ws/build/my_package
+[0.951s] Invoked command in '/home/bambinojr/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/bambinojr/dev_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bambinojr/dev_ws/install/my_package
+[0.954s] Invoking command in '/home/bambinojr/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/my_package -- -j4 -l4
+[0.989s] Invoked command in '/home/bambinojr/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/my_package -- -j4 -l4
+[1.000s] Invoking command in '/home/bambinojr/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/my_package
+[1.007s] -- Install configuration: ""
+[1.007s] -- Execute custom install script
+[1.007s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/launch/listener.launch.py
+[1.014s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/launch/talker.launch.py
+[1.021s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[1.030s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[1.038s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[1.044s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[1.051s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/environment/path.sh
+[1.058s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/environment/path.dsv
+[1.065s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/local_setup.bash
+[1.072s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/local_setup.sh
+[1.080s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/local_setup.zsh
+[1.088s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/local_setup.dsv
+[1.097s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/package.dsv
+[1.105s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+[1.112s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[1.119s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[1.127s] -- Symlinking: /home/bambinojr/dev_ws/install/my_package/share/my_package/package.xml
+[1.137s] Invoked command in '/home/bambinojr/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/my_package
