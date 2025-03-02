@@ -1,1 +1,0 @@
-/home/bambinojr/dev_ws/build/dusty/ament_cmake_environment_hooks/local_setup.sh
