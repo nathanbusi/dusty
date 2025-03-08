@@ -1,0 +1,54 @@
+[0.010s] Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/bambinojr/dev_ws/src/dusty -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bambinojr/dev_ws/install/dusty
+[0.051s] -- The C compiler identification is GNU 9.4.0
+[0.090s] -- The CXX compiler identification is GNU 9.4.0
+[0.093s] -- Check for working C compiler: /usr/bin/cc
+[0.146s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.147s] -- Detecting C compiler ABI info
+[0.198s] -- Detecting C compiler ABI info - done
+[0.205s] -- Detecting C compile features
+[0.205s] -- Detecting C compile features - done
+[0.207s] -- Check for working CXX compiler: /usr/bin/c++
+[0.266s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.267s] -- Detecting CXX compiler ABI info
+[0.325s] -- Detecting CXX compiler ABI info - done
+[0.331s] -- Detecting CXX compile features
+[0.332s] -- Detecting CXX compile features - done
+[0.334s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.350s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.351s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.468s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.484s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.534s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.535s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.536s] -- Added test 'lint_cmake' to check CMake code style
+[0.536s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.537s] -- Added test 'xmllint' to check XML markup files
+[0.539s] -- Configuring done
+[0.541s] -- Generating done
+[0.542s] -- Build files have been written to: /home/bambinojr/dev_ws/build/dusty
+[0.545s] Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/bambinojr/dev_ws/src/dusty -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bambinojr/dev_ws/install/dusty
+[0.548s] Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/dusty -- -j4 -l4
+[0.577s] Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/dusty -- -j4 -l4
+[0.586s] Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/dusty
+[0.592s] -- Install configuration: ""
+[0.592s] -- Execute custom install script
+[0.593s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/config/empty.yaml
+[0.599s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/description/robot.urdf.xacro
+[0.605s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/launch/rsp.launch.py
+[0.612s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/worlds/empty.world
+[0.618s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/package_run_dependencies/dusty
+[0.624s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/parent_prefix_path/dusty
+[0.630s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/ament_prefix_path.sh
+[0.637s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/ament_prefix_path.dsv
+[0.643s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/path.sh
+[0.650s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/path.dsv
+[0.656s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.bash
+[0.663s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.sh
+[0.669s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.zsh
+[0.676s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.dsv
+[0.682s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/package.dsv
+[0.689s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/packages/dusty
+[0.695s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/cmake/dustyConfig.cmake
+[0.702s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/cmake/dustyConfig-version.cmake
+[0.709s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/package.xml
+[0.718s] Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/dusty

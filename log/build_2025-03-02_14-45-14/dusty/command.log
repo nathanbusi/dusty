@@ -1,0 +1,6 @@
+Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/bambinojr/dev_ws/src/dusty -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bambinojr/dev_ws/install/dusty
+Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/bambinojr/dev_ws/src/dusty -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bambinojr/dev_ws/install/dusty
+Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/dusty -- -j4 -l4
+Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/dusty -- -j4 -l4
+Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/dusty
+Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/dusty
