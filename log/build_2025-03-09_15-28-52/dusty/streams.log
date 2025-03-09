@@ -1,0 +1,33 @@
+[0.018s] Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/dusty -- -j4 -l4
+[0.112s] Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/bambinojr/dev_ws/build/dusty -- -j4 -l4
+[0.125s] Invoking command in '/home/bambinojr/dev_ws/build/dusty': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/dusty
+[0.134s] -- Install configuration: ""
+[0.134s] -- Execute custom install script
+[0.135s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/config/drive_bot.rviz
+[0.144s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/config/empty.yaml
+[0.145s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/config/view_bot.rviz
+[0.146s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/description/gazebo_control.xacro
+[0.146s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/description/inertial_macros.xacro
+[0.146s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/description/lidar.xacro
+[0.154s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/description/robot.urdf.xacro
+[0.154s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/description/robot_core.xacro
+[0.155s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/launch/launch_sim.launch.py
+[0.155s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/launch/rsp.launch.py
+[0.155s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/worlds/empty.world
+[0.155s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/worlds/obstacles.world
+[0.164s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/package_run_dependencies/dusty
+[0.165s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/parent_prefix_path/dusty
+[0.165s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/ament_prefix_path.sh
+[0.166s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/ament_prefix_path.dsv
+[0.166s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/path.sh
+[0.166s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/path.dsv
+[0.167s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.bash
+[0.167s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.sh
+[0.167s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.zsh
+[0.168s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/local_setup.dsv
+[0.168s] -- Symlinking: /home/bambinojr/dev_ws/install/dusty/share/dusty/package.dsv
+[0.177s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/packages/dusty
+[0.178s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/cmake/dustyConfig.cmake
+[0.178s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/cmake/dustyConfig-version.cmake
+[0.178s] -- Up-to-date symlink: /home/bambinojr/dev_ws/install/dusty/share/dusty/package.xml
+[0.180s] Invoked command in '/home/bambinojr/dev_ws/build/dusty' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/bambinojr/dev_ws/build/dusty

@@ -1,12 +1,15 @@
+/home/bambinojr/dev_ws/install/dusty/share/dusty/config/drive_bot.rviz
 /home/bambinojr/dev_ws/install/dusty/share/dusty/config/empty.yaml
 /home/bambinojr/dev_ws/install/dusty/share/dusty/config/view_bot.rviz
 /home/bambinojr/dev_ws/install/dusty/share/dusty/description/gazebo_control.xacro
 /home/bambinojr/dev_ws/install/dusty/share/dusty/description/inertial_macros.xacro
+/home/bambinojr/dev_ws/install/dusty/share/dusty/description/lidar.xacro
 /home/bambinojr/dev_ws/install/dusty/share/dusty/description/robot.urdf.xacro
 /home/bambinojr/dev_ws/install/dusty/share/dusty/description/robot_core.xacro
 /home/bambinojr/dev_ws/install/dusty/share/dusty/launch/launch_sim.launch.py
 /home/bambinojr/dev_ws/install/dusty/share/dusty/launch/rsp.launch.py
 /home/bambinojr/dev_ws/install/dusty/share/dusty/worlds/empty.world
+/home/bambinojr/dev_ws/install/dusty/share/dusty/worlds/obstacles.world
 /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/package_run_dependencies/dusty
 /home/bambinojr/dev_ws/install/dusty/share/ament_index/resource_index/parent_prefix_path/dusty
 /home/bambinojr/dev_ws/install/dusty/share/dusty/environment/ament_prefix_path.sh
