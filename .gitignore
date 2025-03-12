@@ -1,0 +1,23 @@
+# ROS2 workspace build artifacts
+build/
+install/
+log/
+
+# VS Code settings and extensions
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ROS2-generated files
+*.swp
+*.bak
+*.tmp
+
+# General backup files
+*.~*
+.DS_Store
+Thumbs.db
